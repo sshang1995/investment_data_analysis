@@ -1,1 +1,1 @@
-# investment_data_analysis
+Practise numpy library by analyzing different datasets
